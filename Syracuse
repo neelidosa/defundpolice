@@ -1,0 +1,19 @@
+---
+title: Syracuse
+permalink: "/Syracuse"
+name: Letter to County Legislature
+city: Syracuse
+state: NY
+recipients:
+- Mayor@SyrGov.net
+subject: Commit to reallocate for social equity
+body: "Dear Mayor Walsh, \n\nHi, my name is [NAME] and I am a resident
+  of [TOWN]. I am calling on Syracuse Police Department and City Council to redirect their funding from the police to social services that are needed especially during the global COVID-19 pandemic and invest in the resources that really keep us safe and healthy, especially in Black communities, Indigenous communities and communities of color. We are calling on you to commit to the following (by Friday, June 12th, 2020.)
+1. To propose and vote for cuts to from the PD's budget as the City responds to projected COVID-19 shortfalls. 
+2. To protect and expand current investment in community-led health and safety strategies, instead of investing in police.
+3. To do everything in my power to compel the police department and all law enforcement agencies to immediately cease enacting violence on community members.
+Your city is on fire, your people are hurting, and Black communities are crying out for health and safety in the midst of pandemic. Now is the time to invest in a safe, liberated future for our city. We can't afford to keep funding attacks on Black lives.
+ \n\nSincerely, \n[YOUR NAME]\n[MD '23]\n"
+layout: email
+---
+
